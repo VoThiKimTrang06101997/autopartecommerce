@@ -71,7 +71,7 @@
         </dependency>-->
 
         <dependency>
-            <groupId>nazeem.autoparts.library</groupId>
+            <groupId>cybersoft.autoparts.library</groupId>
             <artifactId>library</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
